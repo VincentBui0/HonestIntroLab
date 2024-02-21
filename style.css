@@ -1,0 +1,42 @@
+.adContainer {
+    border: solid #ffa500;
+    background-color: #f5f5dc;
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+
+.leftArrow{
+    border: solid #ff0000;
+    height: 30px;
+}
+
+.adTxt{
+    border: solid #0000ff;
+    height: 30px;
+
+}
+
+.adLink{
+    border: solid #008000;
+    height: 30px;
+
+}
+
+.rightArrow {
+    border: solid #ff0000;
+    height: 30px;
+
+}
+
+.navBar {
+    padding:10px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.navBar{
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+}
